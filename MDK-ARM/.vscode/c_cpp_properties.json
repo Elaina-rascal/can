@@ -8,6 +8,7 @@
                 "g:\\project\\stm32\\f427iih6\\can\\Drivers\\STM32F4xx_HAL_Driver\\Inc\\Legacy",
                 "g:\\project\\stm32\\f427iih6\\can\\Drivers\\CMSIS\\Device\\ST\\STM32F4xx\\Include",
                 "g:\\project\\stm32\\f427iih6\\can\\Drivers\\CMSIS\\Include",
+                "g:\\project\\stm32\\f427iih6\\can\\MDK-ARM\\Hardware",
                 "g:\\project\\stm32\\f427iih6\\can\\MDK-ARM",
                 "g:\\project\\stm32\\f427iih6\\can\\Core\\Src",
                 "g:\\project\\stm32\\f427iih6\\can\\Drivers\\STM32F4xx_HAL_Driver\\Src"
@@ -70,7 +71,8 @@
                 "__GNUC_MINOR__=2",
                 "__GNUC_PATCHLEVEL__=1"
             ],
-            "intelliSenseMode": "${default}"
+            "intelliSenseMode": "${default}",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe"
         }
     ],
     "version": 4
